@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/JGilliam/static/css/main.93202d9d.css",
+    "main.js": "/JGilliam/static/js/main.e17a5edc.js",
+    "static/media/OpenSans_SemiCondensed-Medium.ttf": "/JGilliam/static/media/OpenSans_SemiCondensed-Medium.08794b9e74479a9c188f.ttf",
+    "static/media/OpenSans_Condensed-Regular.ttf": "/JGilliam/static/media/OpenSans_Condensed-Regular.e147eaf2d58d3c5fba07.ttf",
+    "static/media/Montserrat-Regular.ttf": "/JGilliam/static/media/Montserrat-Regular.94bb495fba6077f669ed.ttf",
+    "static/media/Montserrat-Black.ttf": "/JGilliam/static/media/Montserrat-Black.d53bb0fb5b57ab742aae.ttf",
+    "index.html": "/JGilliam/index.html",
+    "main.93202d9d.css.map": "/JGilliam/static/css/main.93202d9d.css.map",
+    "main.e17a5edc.js.map": "/JGilliam/static/js/main.e17a5edc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93202d9d.css",
+    "static/js/main.e17a5edc.js"
+  ]
+}
